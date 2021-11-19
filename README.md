@@ -1,1 +1,1 @@
-# English_Punjabi_Language-Identification
+# English_Punjabi_Language_Identification
